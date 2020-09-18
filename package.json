@@ -1,0 +1,22 @@
+{
+  "name": "ajs-10-homeworks-3-platforms-step7-use-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirastor/ajs-10-homeworks-3-platforms-step7-use-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirastor/ajs-10-homeworks-3-platforms-step7-use-package/issues"
+  },
+  "homepage": "https://github.com/nirastor/ajs-10-homeworks-3-platforms-step7-use-package#readme"
+}
